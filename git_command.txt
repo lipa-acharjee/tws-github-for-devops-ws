@@ -1,0 +1,11 @@
+hihello
+how are you
+git init
+git add filename
+git commit
+git push origin main
+git clone
+git restore
+git remote -v
+git remote set-url
+etc
